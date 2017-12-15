@@ -7,5 +7,7 @@
  
 # An example of the graphical user interface:
 
-[image-id]: Example "Optional Title"
+![](Example.jpg)
+
+
 
