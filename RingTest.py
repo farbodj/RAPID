@@ -256,7 +256,7 @@ root.mainloop()
 #
 #######################################
 #
-# The general structure of this python script is influenced  http://www.tkdocs.com/tutorial/firstexample.html
+# For more info and examples see:    http://www.tkdocs.com/tutorial/firstexample.html
 #
 #######################################
 
