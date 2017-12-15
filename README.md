@@ -10,4 +10,11 @@
 ![](Example.jpg)
 
 
+# There are seven variables in the main page of the interface:
+* Name = Name of the image file
+
+* Dim1 and Dim2 = The x and y dimensions that cover the diameter of the circle
+
+* 
+
 
