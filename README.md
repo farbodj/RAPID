@@ -6,4 +6,3 @@
  
  
 # An example of the graphical user interface:
-![MacDown logo](Example)
