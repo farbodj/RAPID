@@ -10,11 +10,24 @@
 ![](Example.jpg)
 
 
-# There are seven variables in the main page of the interface:
+# There are 4 variables in the main page of the interface:
 * Name = Name of the image file
 
 * Dim1 and Dim2 = The x and y dimensions that cover the diameter of the circle
 
-* 
+* Angle = Rotates the input image with respect to the angle the user enters
+
+* Angle_Num = Rotates the image this many times with respect to the random angles
+
+# There are 7 functions in the main page of the interface:
+* Display: Displays the input image as a whole and also a slice of it based on the Dim1 and Dim2 values
+
+* Slice: Plots Intensity Vs Pixel number graph based in the chosen slice (from Dim1 and Dim2)
+
+* Comparison: Compares the raw data with the smoothed version of it
+
+* Peak Finer: Finds peaks of the plot generated from Slice functions
+
+* FWHM, Diameter, FRD Finder: Determines the diameter of the circle (in pixels), fits a spline polynomial to the gaussians and calculates the Full Width Half Maximum (FWHM) and also the Focal Ratio Degradation (FRD) of the ring. 
 
 
