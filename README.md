@@ -37,7 +37,7 @@
 
 # Output
 
-[SPACE]![](Fig0.png)
+![](Fig0.png)
 
 * Different functions are as following:
 
