@@ -43,7 +43,7 @@
 
 "Display":
 
-![](FIG1.png)
+$~~~~~~~~~~~$ ![](FIG1.png)
 
 ![](FIG2.png)
 
