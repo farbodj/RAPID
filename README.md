@@ -32,4 +32,28 @@
 
 * Calibrate - FWHM, Radius, FRD Finder: Rotates the image several times with random angles and determines FWHM, Diameter and FRD Finder of the system (this time with standard deviation from several measurments).
 
+# Run the code
+- - python RingTest.py
+
+# Output
+
+![](Fig0)
+
+* Different functions are as following:
+
+![](FIG1)
+
+![](FIG2)
+
+![](FIG3)
+
+![](FIG4)
+
+![](FIG5)
+
+![](FIG6)
+
+![](FIG7)
+
+![](FIG8)
 
