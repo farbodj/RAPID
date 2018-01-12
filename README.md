@@ -20,14 +20,16 @@
 * Angle_Num = Rotates the image this many times with respect to the random angles
 
 # There are 7 functions in the main page of the interface:
-* Display: Displays the input image as a whole and also a slice of it based on the Dim1 and Dim2 values
+* Display: Displays the input image as a whole and also a slice of it based on the Dim1 and Dim2 values.
 
-* Slice: Plots Intensity Vs Pixel number graph based in the chosen slice (from Dim1 and Dim2)
+* Slice: Plots Intensity Vs Pixel number graph based in the chosen slice (from Dim1 and Dim2).
 
-* Comparison: Compares the raw data with the smoothed version of it
+* Comparison: Compares the raw data with the smoothed version of it.
 
-* Peak Finer: Finds peaks of the plot generated from Slice functions
+* Peak Finer: Finds peaks of the plot generated from Slice functions.
 
 * FWHM, Diameter, FRD Finder: Determines the diameter of the circle (in pixels), fits a spline polynomial to the gaussians and calculates the Full Width Half Maximum (FWHM) and also the Focal Ratio Degradation (FRD) of the ring. 
+
+* Calibrate - FWHM, Radius, FRD Finder: Rotates the image several times with random angles and determines FWHM, Diameter and FRD Finder of the system (this time with standard deviation from several measurments).
 
 
