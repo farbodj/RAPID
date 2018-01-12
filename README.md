@@ -13,7 +13,7 @@
 # There are 4 variables in the main page of the interface:
 * Name = Name of the image file
 
-* Dim1 and Dim2 = The x and y dimensions that cover the diameter of the circle
+* Dim1 and Dim2 = The x and y dimensions that cover the diameter of the circle [for the test data in "All" directory, you can use 600 pix and 610 pix to cover the diameter]
 
 * Angle = Rotates the input image with respect to the angle the user enters
 
