@@ -10,7 +10,7 @@
 ![](Example.jpg)
 
 
-# There are 4 variables in the main page of the interface:
+# There are 5 variables in the main page of the interface:
 * Name = Name of the image file
 
 * Dim1 and Dim2 = The x and y dimensions that cover the diameter of the circle [for the test data in "All" directory, you can use 600 pix and 610 pix to cover the diameter]
@@ -31,6 +31,8 @@
 * FWHM, Diameter, FRD Finder: Determines the diameter of the circle (in pixels), fits a spline polynomial to the gaussians and calculates the Full Width Half Maximum (FWHM) and also the Focal Ratio Degradation (FRD) of the ring. 
 
 * Calibrate - FWHM, Radius, FRD Finder: Rotates the image several times with random angles and determines FWHM, Diameter and FRD Finder of the system (this time with standard deviation from several measurments).
+
+* Show All - Determines FRD of multiple rings in multiple files and plots a graph of FRD Vs angle of all rings (note that for this function, name of the directory should be entered in the corresponding space).
 
 # Run the code
          -python RingTest.py
