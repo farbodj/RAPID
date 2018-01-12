@@ -41,19 +41,33 @@
 
 * Different functions are as following:
 
+"Display":
+
 ![](FIG1.png)
 
 ![](FIG2.png)
 
+"Slice":
+
 ![](FIG3.png)
+
+"Comparison":
 
 ![](FIG4.png)
 
+"Peak Finder":
+
 ![](FIG5.png)
+
+"FWHM, Radius, FRD Finder":
 
 ![](FIG6.png)
 
+"Calibrate - FWHM, Radius, FRD Finder":
+
 ![](FIG7.png)
+
+"Show All":
 
 ![](FIG8.png)
 
