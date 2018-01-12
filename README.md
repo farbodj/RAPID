@@ -69,5 +69,5 @@
 
 "Show All":
 
-![](FIG8.png)
+![](fig8.png)
 
