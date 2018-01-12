@@ -41,19 +41,19 @@
 
 * Different functions are as following:
 
-![](FIG1)
+![](FIG1.png)
 
-![](FIG2)
+![](FIG2.png)
 
-![](FIG3)
+![](FIG3.png)
 
-![](FIG4)
+![](FIG4.png)
 
-![](FIG5)
+![](FIG5.png)
 
-![](FIG6)
+![](FIG6.png)
 
-![](FIG7)
+![](FIG7.png)
 
-![](FIG8)
+![](FIG8.png)
 
