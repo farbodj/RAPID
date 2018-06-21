@@ -8,7 +8,7 @@
  
 # An example of the graphical user interface:
 
-![](GUI)
+![](GUI.jpg)
 
 
 # There are 5 variables in the main page of the interface:
